@@ -1,0 +1,81 @@
+1. C:\Users\HP>cd Desktop
+	--> C:\Users\HP\Desktop>
+
+2. C:\Users\HP\Desktop>cd..
+	--> C:\Users\HP>
+
+3. C:\Users\HP\Desktop>tree
+	C:.
+	|__praxis-academy
+		|__kemampuan-dasar-1
+			|__latihan
+
+4. C:\Users\HP\Desktop>dir
+	Volume in drive C is Windows
+	Volume Serial Number is 86C4-B0CE
+
+	Directory of C:\Users\HP\Desktop
+
+	.....
+
+5. C:\Users\HP\Desktop>help
+	For more information on a specific command, type HELP command-name.
+	.....
+
+6. C:\Users\HP\Desktop>break
+
+   C:\Users\HP\Desktop>
+
+7. C:\Users\HP\Desktop>time
+	The current time is : 18:53:19,47
+
+8. C:\Users\HP\Desktop>ver
+	Microsoft Windows [Version 10.0.18362.657]
+
+9. C:\Users\HP\Desktop>color 2 (green)
+
+10. C:\Users\HP\Desktop>ping -t
+	IP address must be specified
+
+11. C:\Users\HP\Desktop>date
+	The current date is: 24/02/2020
+	Enter the new date: (dd-mm-yy)
+
+12. C:\Users\HP\Desktop>exit
+	Close cmd
+
+13. C:\Users\HP\Desktop>netstat
+	Active Connection
+	
+	Proto	Local Address	Foreign Address 	State
+	....	....		....			....
+
+14. C:\Users\HP\Desktop>cls
+	Clear the display
+
+15. C:\Users\HP\Desktop>tzutil
+	Windows Time Zone Utility
+
+	Usage:
+	....
+
+16. C:\Users\HP\Desktop>verify
+	VERIFY is off.
+
+17. C:\Users\HP\Desktop>vol
+	Volume in drive C is Windows
+	Volume Serial Number is 86C4-B0CE
+
+18. C:\Users\HP\Desktop>where
+	The syntax of this command is:
+	
+	WHERE [/R dir] [/Q] [/F] [/T] patttern...
+	.....
+
+19. C:\Users\HP\Desktop>xcopy
+	Invalid number of parameters
+	0 File(s) copied
+
+20. C:\Users\HP\Desktop>whoami
+	laptop-c4pfei3g\hp
+	
